@@ -25,7 +25,7 @@ SECRET_KEY = 'ntmlm*qr8y(_gks7or#9q$q86-gqaj)l%&j3(1k^e!mw8f69my'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ariruano.pythonanywhere.com']
 
 
 # Application definition
